@@ -1,0 +1,345 @@
+/***********************tagselector*********************/
+html,
+body {
+  border: 0;
+  padding: 0%;
+  margin: 0%;
+  background: rgb(184, 222, 235);
+  font-family: 'Merriweather', serif;
+}
+
+
+
+h1 {
+  font-size: 750%;
+  font-family: 'Dancing Script', cursive;
+  color: #ffffff;
+  margin-top: 0%;
+  padding-top: 2%;
+  margin-bottom: 0%;
+}
+
+h2 {
+
+  font-family: 'Bebas Neue', cursive;
+  font-size: 600%;
+
+  color: #ffffff;
+
+}
+
+h3 {
+  border: 0;
+  padding: 0%;
+  margin: 0%;
+  font-size: 350%;
+
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h4 {
+  border: 0;
+  padding: 0%;
+  margin: 3%;
+  font-size: 250%;
+  color: rgb(255, 255, 255);
+
+  font-family: 'Dancing Script', cursive;
+}
+
+p {
+  font-size: 150%;
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+
+  margin-top: 0;
+  left: 0;
+  font-weight: 300;
+}
+
+hr {
+  border-top: rgb(255, 232, 232) dotted 20px;
+  background-color: none;
+  width: 10%;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  margin: 0;
+  margin: 5% 45% 2% 45%;
+
+
+}
+
+/***********************CLASS*********************/
+.big-container {
+  background: rgb(255, 224, 210);
+
+}
+
+.top-container {
+
+  position: relative;
+  text-align: center;
+  width: 80%;
+  margin: 0 10% 0 10%;
+  padding-bottom: 39%;
+}
+
+.middle-container {
+  text-align: center;
+  margin: 0 10% 0 10%;
+  width: 80%;
+
+
+}
+
+.big-div {
+  width: 80%;
+}
+
+.topcloud {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 20%;
+  padding-bottom: 30%;
+  padding-right: 9%;
+}
+
+.bottomcloud {
+  position: absolute;
+  bottom: 0;
+  left: 3%;
+  width: 20%;
+  padding-bottom: 20%;
+}
+
+.mountain {
+  position: absolute;
+  bottom: 9%;
+  left: 20%;
+  width: 60%;
+  border-radius: 100%;
+}
+
+
+.circular {
+  
+  position: absolute;
+left: 0;
+  width: 100%;
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-top: 5%;
+  padding-bottom: 2%;
+  margin-top: 1%;
+  margin-right: 0%;
+}
+
+.skills {
+  margin-top: 10%;
+}
+.obbiettivo {
+
+  width: 100%;
+  margin-top: 0;
+  left: 0;
+  font-weight: 900;
+  font-size: 3rem;
+
+}
+
+.noi {
+  line-height: 80%;
+
+}
+
+.video {
+  width: 80%;
+  margin: auto;
+
+}
+
+.video1 {
+
+
+  width: 22%;
+  margin: 0 2% 0 2%;
+  border: 0;
+  float: left;
+  padding-left: 2%;
+
+}
+
+.video2 {
+
+  border: 0;
+  padding-top: 4%;
+
+  text-align: left;
+  line-height: 150%;
+}
+
+.video3 {
+  border: 0;
+  padding: 0%;
+  margin-bottom: 6%;
+  text-align: left;
+  line-height: 150%;
+  font-weight: 900;
+}
+
+.foto {
+  width: 80%;
+  margin: auto;
+  padding-top: 5%;
+
+}
+
+.foto1 {
+
+
+  width: 24%;
+  margin: 0 2% 0 2%;
+  border: 0;
+  float: left;
+
+}
+
+.foto2 {
+
+  border: 0;
+  padding-top: 4%;
+
+  text-align: left;
+  line-height: 150%;
+}
+
+.foto3 {
+  border: 0;
+  padding: 0%;
+  margin-bottom: 12%;
+  text-align: left;
+  line-height: 150%;
+  font-weight: 900;
+
+}
+
+.marketing {
+  width: 80%;
+  margin: auto;
+
+
+}
+
+.marketing1 {
+
+
+  width: 28%;
+  margin: 0 0 0 0;
+  border: 0;
+  float: left;
+
+
+}
+
+.marketing2 {
+
+  border: 0;
+  padding-top: 6%;
+
+  text-align: left;
+  line-height: 150%;
+}
+
+.marketing3 {
+  border: 0;
+  padding: 0%;
+
+  text-align: left;
+  line-height: 150%;
+  font-weight: 900;
+
+}
+
+
+.marketing4 {
+  border: 0;
+  padding: 0%;
+  margin-bottom: 10%;
+  text-align: left;
+  line-height: 150%;
+  font-weight: 900;
+
+}
+
+.contact-me0 {
+  padding-top: 23%;
+  margin-bottom: 0;
+  font-size: 200%;
+}
+.contact-me {
+  margin-bottom: 0;
+  font-size: 300%;
+
+}
+
+.contact-me1 {
+  margin-bottom: 5%;
+  font-size: 100%;
+  font-weight: 900;
+  color: rgb(255, 255, 255);
+
+}
+
+.contattaci {
+  margin-top: 0;
+  margin-bottom: 2%;
+
+}
+
+.contattaci {
+  background: #34b8d9c7;
+  background-image: -webkit-linear-gradient(top, #34b8d9, #8ce8ff);
+  background-image: -moz-linear-gradient(top, #34b8d9, #8ce8ff);
+  background-image: -ms-linear-gradient(top, #34b8d9, #8ce8ff);
+  background-image: -o-linear-gradient(top, #34b8d9, #8ce8ff);
+  background-image: linear-gradient(to bottom, #34b8d9, #8ce8ff);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffffdc;
+  font-size: 40px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+ }
+
+
+.contattaci:hover {
+  background: #3ca9fc;
+  background-image: -webkit-linear-gradient(top, #3ca9fc, #82cdff);
+  background-image: -moz-linear-gradient(top, #3ca9fc, #82cdff);
+  background-image: -ms-linear-gradient(top, #3ca9fc, #82cdff);
+  background-image: -o-linear-gradient(top, #3ca9fc, #82cdff);
+  background-image: linear-gradient(to bottom, #3ca9fc, #82cdff);
+  text-decoration: none;
+}
+
+
+.bottom-container {
+  text-align: center;
+  margin-top: 3%;
+  margin-bottom: 0%;
+  padding-bottom: 1%;
+  background-color: rgba(56, 208, 255, 0.664);
+  border-top: solid 10px rgba(255, 224, 210, 0.568);
+}
+
+.footer-link {
+  font-size: 150%;
+  text-decoration: none;
+  margin: 5px 10px 0 0;
+}
+
+/***************************idselector*************/
